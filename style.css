@@ -11,7 +11,7 @@
     width: 10vw;
 }
 .header {
-    background: url('images/sou1.jpg');
+    background: url('sou1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -106,7 +106,7 @@ h1 {
 .about-imagebox {
     flex-basis: 50vw;
     height: auto;
-    background: url(images/sou2.jpg);
+    background: url(sou2.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: 0px;
